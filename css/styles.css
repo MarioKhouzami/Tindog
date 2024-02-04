@@ -165,6 +165,13 @@ p {
 .social-icon {
   margin: 20px 10px;
 }
+.social-links {
+  text-decoration: none;
+  color: black;
+}
+.social-links:hover {
+  color: #ff4c68;
+}
 @media (max-width: 1028px) {
   #title {
     text-align: center;
